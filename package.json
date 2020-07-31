@@ -1,0 +1,19 @@
+{
+  "name": "request-multiple-urls",
+  "version": "1.0.0",
+  "description": "Fetch an array of URLs which contain JSON data, and return their contents in a promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "jsdoc *.js"
+  },
+  "author": "Alex Bughiu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "jsdoc": "^3.6.5"
+  }
+}

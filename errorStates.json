@@ -1,0 +1,5 @@
+{
+  "100": "Argument is not an array",
+  "101": "Argument array has an item which is not a valid string",
+  "102": "There was an error returning the data from the URL"
+}
